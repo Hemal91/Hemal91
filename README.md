@@ -10,7 +10,7 @@
 
 ### Hey There! The name's Hemal👋
 
-Junior Software Developer starting my coding journey!
+Junior Software Developer.
 
 
 <!--
